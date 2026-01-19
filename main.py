@@ -7,6 +7,7 @@ running = True
 dirTick = 0
 fps = 60
 
+
 while running:
     screen.fill('white')
 
